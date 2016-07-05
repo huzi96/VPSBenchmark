@@ -2,7 +2,9 @@
 ###Goals
 For benchmarking the performance of a VPS
 ###Benchmarking indexes
+* Availability
 * Request latency
 * Large file throughput
-* Concurent Performance (Massive file descriptor)
+* Proxy performance
+* Concurent performance (Massive file descriptor)
 
